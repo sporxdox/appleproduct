@@ -1,7 +1,0 @@
-SELECT `apple`.`id`,
-    `apple`.`product_name`,
-    `apple`.`series`,
-    `apple`.`product_series`,
-    `apple`.`storage`,
-    `apple`.`price`
-FROM `appledb`.`apple`;
